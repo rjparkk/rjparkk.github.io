@@ -9,4 +9,5 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 [Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/House_Prices.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/House_Prices.ipynb)
 
 Real Estate Price Predictions: This is a regression problem: Based on information gathered from [Redfin](https://www.redfin.com/city/6283/NJ/Fort-Lee), we predict their prices.
+
 The dataset has a lot of features and many missing values. This gives interesting possibilities for feature transformation and data visualization. 
