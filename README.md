@@ -6,7 +6,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ### Real Estate Price Predictions: Multiple Linear Regression 
 
-[Github] (https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Diabetes_Prediction.ipynb) NBviewer
+[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Diabetes_Prediction.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk/rjparkk.github.io/blob/main/Notebook/Diabetes_Prediction.ipynb)
 
 Real Estate Price Predictions: This is a regression problem: Based on information gathered from [Redfin](https://www.redfin.com/city/6283/NJ/Fort-Lee), we predict their prices.
 
