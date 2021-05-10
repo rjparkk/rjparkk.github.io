@@ -16,3 +16,5 @@ The dataset has a lot of features and many missing values. This gives interestin
 ### Diabetes Prediction: Logistic Regression
 
 [Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Diabetes_Prediction.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk/rjparkk.github.io/blob/main/Notebook/Diabetes_Prediction.ipynb)
+
+The objective of the dataset is to build a predictive model using Logistic Regression, based on certain diagnostic measurements included in the dataset. The dataset is available on [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) and originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
