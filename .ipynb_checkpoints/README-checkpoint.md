@@ -1,6 +1,6 @@
 # Data science portfolio by Richard Park
 
-This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
+This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. 
 
 ## Regression problems.
 
