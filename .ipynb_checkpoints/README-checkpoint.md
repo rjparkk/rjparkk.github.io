@@ -37,3 +37,11 @@ The dataset is available on [Kaggle](https://www.kaggle.com/uciml/pima-indians-d
 The objective is to build different models to predict quality of wines (Logistic Regression, kNN, and Random Forest Models). The 3 Models are compared to see which is most effecient at predicting the quality of wine.
 
 The dataset is available on [UCI machine learning repository](https://archive.ics.uci.edu/ml/datasets/wine+quality) 
+
+### ANN Model 
+
+[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb)
+
+The objective is to build an ANN model using the bank marketing dataset.
+
+The dataset is available on [Kaggle](https://www.kaggle.com/sriharipramod/bank-loan-classification)
