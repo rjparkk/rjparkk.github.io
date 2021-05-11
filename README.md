@@ -51,7 +51,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr
 
 ### ANN Model 
 
-[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb)
+[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb)
 
 The objective is to build an ANN model using the bank marketing dataset, focusing on the target variable, "personal loan," reflects whether a customer accepted a personal loan offer.
 
