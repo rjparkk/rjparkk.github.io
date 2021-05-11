@@ -38,6 +38,8 @@ The objective is to build different models to predict quality of wines (Logistic
 
 The dataset is available on [UCI machine learning repository](https://archive.ics.uci.edu/ml/datasets/wine+quality) 
 
+## Neural networks
+
 ### ANN Model 
 
 [Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb)
