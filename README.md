@@ -2,7 +2,7 @@
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. 
 
-## Classification Models
+## Regression Models
 
 ### Real Estate Price Predictions: Multiple Linear Regression 
 
@@ -21,6 +21,7 @@ The objective of the dataset is to build a predictive model using Logistic Regre
 
 The dataset is available on [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) and originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
 
+## Classification Models
 
 ### Diabetes Prediction: k-Nearest Neighbors (kNN)
 
