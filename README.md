@@ -33,7 +33,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/uciml/pima-indians-d
 
 ### Decision Tree Models & Model Optimization
 
-[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Wine_Decision_Tree_Models.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk.github.io/blob/main/Notebook/Wine_Decision_Tree_Models.ipynb)
+[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Wine_Decision_Tree_Models.ipynb) [nbviewer](https://nbviewer.jupyter.org/rjparkk/github/rjparkk.github.io/blob/main/Notebook/Wine_Decision_Tree_Models.ipynb)
 
 The objective is to build different models to predict quality of wines (Logistic Regression, kNN, and Random Forest Models). The 3 Models are compared to see which is most effecient at predicting the quality of wine.
 
@@ -41,7 +41,7 @@ The dataset is available on [UCI machine learning repository](https://archive.ic
 
 ### Deep Learning
 
-[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Employee_Attrition_Prediction.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk.github.io/blob/main/Notebook/Employee_Attrition_Prediction.ipynb)
+[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Employee_Attrition_Prediction.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk/rjparkk.github.io/blob/main/Notebook/Employee_Attrition_Prediction.ipynb)
 
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. 
 
@@ -51,7 +51,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr
 
 ### ANN Model 
 
-[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb)
+[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk/rjparkk.github.io/blob/main/Notebook/Marketing_Campaign_Response_Prediction.ipynb.ipynb)
 
 The objective is to build an ANN model using the bank marketing dataset, focusing on the target variable, "personal loan," reflects whether a customer accepted a personal loan offer.
 
