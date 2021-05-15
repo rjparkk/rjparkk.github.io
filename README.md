@@ -56,3 +56,11 @@ The dataset is available on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr
 The objective is to build an ANN model using the bank marketing dataset, focusing on the target variable, "personal loan," reflects whether a customer accepted a personal loan offer.
 
 The dataset is available on [Kaggle](https://www.kaggle.com/sriharipramod/bank-loan-classification)
+
+## Data Analysis
+
+### YouTube Trending Pages Deep Data Analysis
+
+[Github](https://github.com/rjparkk/rjparkk.github.io/blob/main/Notebook/deep-analysis-on-youtube-trending-videos-eda.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/rjparkk/rjparkk.github.io/blob/main/Notebook/deep-analysis-on-youtube-trending-videos-eda.ipynb)
+
+Senior Practicum - Data Exploration and Analysis conducting during my Masters education. Collected metadata through YouTube's API and conducted a trend analysis on the data. 
